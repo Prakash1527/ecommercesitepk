@@ -1,0 +1,12 @@
+*.pyc
+.idea/*
+.pytest_cache/*
+logs/*
+Reports/*
+Screenshots/*
+venv/*
+geckodriver.log
+chromedriver.exe
+geckodriver.exe
+IEDriverServer.exe
+executecmd.txt
